@@ -105,7 +105,7 @@ GitHub Actions를 통해 소스 코드를 빌드하고, AWS S3에 아티팩트�
 
 ---
 
-[![시연 영상](http://img.youtube.com/vi/A38tptt7irM/0.jpg)](https://www.youtube.com/watch?v=A38tptt7irM)
+[![시연 영상](http://img.youtube.com/vi/IKQKvk6GFUM/0.jpg)](https://www.youtube.com/watch?v=IKQKvk6GFUM)
 
 <br>
 
